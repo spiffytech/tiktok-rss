@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@elysemyers</id>
+  <title>elysemyers TikTok</title>
+  <updated>2023-09-19T19:27:04+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://spiffytech.github.io/tiktok-rss/rss/elysemyers.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7277648240126823723</id>
+    <title>looking back, the signs were there #coffeetalk #theadhdway </title>
+    <updated>2023-09-11T19:12:24+00:00</updated>
+    <content>looking back, the signs were there #coffeetalk #theadhdway </content>
+    <link href="https://tiktok.com/@elysemyers/video/7277648240126823723" rel="alternate"/>
+    <published>2023-09-11T19:12:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7278687969693715758</id>
+    <title>We love you so much, Oliver 🤍</title>
+    <updated>2023-09-14T14:26:56+00:00</updated>
+    <content>We love you so much, Oliver 🤍</content>
+    <link href="https://tiktok.com/@elysemyers/video/7278687969693715758" rel="alternate"/>
+    <published>2023-09-14T14:26:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7279408076187503918</id>
+    <title>@jonas_myers doing everything he can to make me laugh and distract me from the worst pain of my life (mission was successful) 🥊</title>
+    <updated>2023-09-16T13:01:28+00:00</updated>
+    <content>@jonas_myers doing everything he can to make me laugh and distract me from the worst pain of my life (mission was successful) 🥊</content>
+    <link href="https://tiktok.com/@elysemyers/video/7279408076187503918" rel="alternate"/>
+    <published>2023-09-16T13:01:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7279514171945798954</id>
+    <title>could have gone a lot of ways but this was not one I was expecting. ✔️</title>
+    <updated>2023-09-16T19:53:01+00:00</updated>
+    <content>could have gone a lot of ways but this was not one I was expecting. ✔️</content>
+    <link href="https://tiktok.com/@elysemyers/video/7279514171945798954" rel="alternate"/>
+    <published>2023-09-16T19:53:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7280620750883671327</id>
+    <title>betrayed by that extra plop of ranch at the end</title>
+    <updated>2023-09-19T19:27:04+00:00</updated>
+    <content>betrayed by that extra plop of ranch at the end</content>
+    <link href="https://tiktok.com/@elysemyers/video/7280620750883671327" rel="alternate"/>
+    <published>2023-09-19T19:27:04+00:00</published>
+  </entry>
+</feed>
