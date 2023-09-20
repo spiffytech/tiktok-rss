@@ -4,6 +4,8 @@ on:
     branches:
       - main
   workflow_dispatch:
+  schedule:
+    - cron: '7 * * * *'
 jobs:
   scheduled:
     runs-on: ubuntu-latest
