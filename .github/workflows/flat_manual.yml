@@ -1,4 +1,4 @@
-name: Flat (manual)
+name: Fetch guest tokens
 on:
   push:
     branches:
@@ -17,8 +17,4 @@ jobs:
       - name: update apt
         run: sudo apt-get update
       - name: Fetch data
-        uses: githubocto/flat@v3
-        with:
-          http_url: https://conoroneill.com/index.xml
-          downloaded_filename: conor_rss.xml
-          postprocess: postprocess.ts
+        run: "echo hello"
