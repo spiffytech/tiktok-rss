@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-09-21T16:24:52+00:00</updated>
+  <updated>2023-09-23T18:36:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7278687969693715758</id>
-    <title>We love you so much, Oliver 🤍</title>
-    <updated>2023-09-14T14:26:56+00:00</updated>
-    <content>We love you so much, Oliver 🤍</content>
-    <link href="https://tiktok.com/@elysemyers/video/7278687969693715758" rel="alternate"/>
-    <published>2023-09-14T14:26:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7279408076187503918</id>
     <title>@jonas_myers doing everything he can to make me laugh and distract me from the worst pain of my life (mission was successful) 🥊</title>
@@ -51,5 +43,13 @@
     <content>this memory comes back to me every single time I warm my abandoned coffee up in the microwave. #warmup </content>
     <link href="https://tiktok.com/@elysemyers/video/7281315959388835102" rel="alternate"/>
     <published>2023-09-21T16:24:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7282092131332656415</id>
+    <title>hope this helps someone! #postpartumessentials </title>
+    <updated>2023-09-23T18:36:48+00:00</updated>
+    <content>hope this helps someone! #postpartumessentials </content>
+    <link href="https://tiktok.com/@elysemyers/video/7282092131332656415" rel="alternate"/>
+    <published>2023-09-23T18:36:48+00:00</published>
   </entry>
 </feed>
