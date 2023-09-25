@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-09-24T21:04:06+00:00</updated>
+  <updated>2023-09-25T18:24:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7280620750883671327</id>
-    <title>betrayed by that extra plop of ranch at the end</title>
-    <updated>2023-09-19T19:27:04+00:00</updated>
-    <content>betrayed by that extra plop of ranch at the end</content>
-    <link href="https://tiktok.com/@elysemyers/video/7280620750883671327" rel="alternate"/>
-    <published>2023-09-19T19:27:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7281315959388835102</id>
     <title>this memory comes back to me every single time I warm my abandoned coffee up in the microwave. #warmup </title>
@@ -51,5 +43,13 @@
     <content>and suddenly I am invested in sports</content>
     <link href="https://tiktok.com/@elysemyers/video/7282501176447323423" rel="alternate"/>
     <published>2023-09-24T21:04:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7282831194599853342</id>
+    <title>so anyways what is YOUR roman empire</title>
+    <updated>2023-09-25T18:24:48+00:00</updated>
+    <content>so anyways what is YOUR roman empire</content>
+    <link href="https://tiktok.com/@elysemyers/video/7282831194599853342" rel="alternate"/>
+    <published>2023-09-25T18:24:48+00:00</published>
   </entry>
 </feed>
