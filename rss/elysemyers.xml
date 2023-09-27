@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-09-26T16:11:56+00:00</updated>
+  <updated>2023-09-27T18:33:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7282092131332656415</id>
-    <title>hope this helps someone! #postpartumessentials </title>
-    <updated>2023-09-23T18:36:48+00:00</updated>
-    <content>hope this helps someone! #postpartumessentials </content>
-    <link href="https://tiktok.com/@elysemyers/video/7282092131332656415" rel="alternate"/>
-    <published>2023-09-23T18:36:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7282383981155323167</id>
     <title>to be honest, it makes sense that wild animals feel safe around @Lance Bass bass. it’s a fun fact that just feels true even without proof. 😂</title>
@@ -51,5 +43,13 @@
     <content>I like what I like…and what I like is dinner at @Panera Bread #panerapartner </content>
     <link href="https://tiktok.com/@elysemyers/video/7283168058359778591" rel="alternate"/>
     <published>2023-09-26T16:11:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7283575539326029099</id>
+    <title>getting to make people laugh unexpectedly behind the camera is always high praise 😂</title>
+    <updated>2023-09-27T18:33:09+00:00</updated>
+    <content>getting to make people laugh unexpectedly behind the camera is always high praise 😂</content>
+    <link href="https://tiktok.com/@elysemyers/video/7283575539326029099" rel="alternate"/>
+    <published>2023-09-27T18:33:09+00:00</published>
   </entry>
 </feed>
