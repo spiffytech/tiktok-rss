@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-09-27T19:53:32+00:00</updated>
+  <updated>2023-09-28T13:21:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7282501176447323423</id>
-    <title>and suddenly I am invested in sports</title>
-    <updated>2023-09-24T21:04:06+00:00</updated>
-    <content>and suddenly I am invested in sports</content>
-    <link href="https://tiktok.com/@elysemyers/video/7282501176447323423" rel="alternate"/>
-    <published>2023-09-24T21:04:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7282831194599853342</id>
     <title>so anyways what is YOUR roman empire</title>
@@ -51,5 +43,13 @@
     <content>do you not get the survey if you don’t breastfeed? is my son’s pediatrician reviewing the results? do I have to check-in with him if I don’t pass the test? I have so many questions. #ppd #postpartumdepression </content>
     <link href="https://tiktok.com/@elysemyers/video/7283596240326118702" rel="alternate"/>
     <published>2023-09-27T19:53:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7283866180857744683</id>
+    <title>say cheese 📸</title>
+    <updated>2023-09-28T13:21:10+00:00</updated>
+    <content>say cheese 📸</content>
+    <link href="https://tiktok.com/@elysemyers/video/7283866180857744683" rel="alternate"/>
+    <published>2023-09-28T13:21:10+00:00</published>
   </entry>
 </feed>
