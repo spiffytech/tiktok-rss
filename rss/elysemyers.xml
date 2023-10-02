@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-10-02T13:54:03+00:00</updated>
+  <updated>2023-10-02T15:29:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7283866180857744683</id>
-    <title>say cheese 📸</title>
-    <updated>2023-09-28T13:21:10+00:00</updated>
-    <content>say cheese 📸</content>
-    <link href="https://tiktok.com/@elysemyers/video/7283866180857744683" rel="alternate"/>
-    <published>2023-09-28T13:21:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7284605554083908906</id>
     <title>throwback to this revelation #parenttrap #britishtwin #onthisday </title>
@@ -51,5 +43,13 @@
     <content>I’m really enjoying the “on this day” feature of this app because it’s reminding me that 2 years can go by and I still eat and wear the same thing every day 😂 #decisionfatigue #ocd </content>
     <link href="https://tiktok.com/@elysemyers/video/7285358934779546922" rel="alternate"/>
     <published>2023-10-02T13:54:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7285383453397323054</id>
+    <title>Watching this crossover unfold is giving me so kuch life - shoutout to the kelce brothers for creating a judgement free zone on podcast for people to learn and be excited about something new! 🏈</title>
+    <updated>2023-10-02T15:29:08+00:00</updated>
+    <content>Watching this crossover unfold is giving me so kuch life - shoutout to the kelce brothers for creating a judgement free zone on podcast for people to learn and be excited about something new! 🏈</content>
+    <link href="https://tiktok.com/@elysemyers/video/7285383453397323054" rel="alternate"/>
+    <published>2023-10-02T15:29:08+00:00</published>
   </entry>
 </feed>
