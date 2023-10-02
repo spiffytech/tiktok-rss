@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-10-01T17:57:00+00:00</updated>
+  <updated>2023-10-02T13:54:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7283596240326118702</id>
-    <title>do you not get the survey if you don’t breastfeed? is my son’s pediatrician reviewing the results? do I have to check-in with him if I don’t pass the test? I have so many questions. #ppd #postpartumdepression </title>
-    <updated>2023-09-27T19:53:32+00:00</updated>
-    <content>do you not get the survey if you don’t breastfeed? is my son’s pediatrician reviewing the results? do I have to check-in with him if I don’t pass the test? I have so many questions. #ppd #postpartumdepression </content>
-    <link href="https://tiktok.com/@elysemyers/video/7283596240326118702" rel="alternate"/>
-    <published>2023-09-27T19:53:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7283866180857744683</id>
     <title>say cheese 📸</title>
@@ -51,5 +43,13 @@
     <content>they gave me a lot to work with this week</content>
     <link href="https://tiktok.com/@elysemyers/video/7285050540881431851" rel="alternate"/>
     <published>2023-10-01T17:57:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7285358934779546922</id>
+    <title>I’m really enjoying the “on this day” feature of this app because it’s reminding me that 2 years can go by and I still eat and wear the same thing every day 😂 #decisionfatigue #ocd </title>
+    <updated>2023-10-02T13:54:03+00:00</updated>
+    <content>I’m really enjoying the “on this day” feature of this app because it’s reminding me that 2 years can go by and I still eat and wear the same thing every day 😂 #decisionfatigue #ocd </content>
+    <link href="https://tiktok.com/@elysemyers/video/7285358934779546922" rel="alternate"/>
+    <published>2023-10-02T13:54:03+00:00</published>
   </entry>
 </feed>
