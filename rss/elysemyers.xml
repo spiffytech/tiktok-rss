@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-10-04T18:23:33+00:00</updated>
+  <updated>2023-10-04T13:49:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7284753306793119019</id>
+    <title>the dude yeets himself back like he’s got somewhere to be</title>
+    <updated>2023-09-30T22:43:35+00:00</updated>
+    <content>the dude yeets himself back like he’s got somewhere to be</content>
+    <link href="https://tiktok.com/@elysemyers/video/7284753306793119019" rel="alternate"/>
+    <published>2023-09-30T22:43:35+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7285050540881431851</id>
     <title>they gave me a lot to work with this week</title>
@@ -43,13 +51,5 @@
     <content>apparently it’s not house party rules around here 🍾 #coffeetalk #shotluge #onthisday </content>
     <link href="https://tiktok.com/@elysemyers/video/7286100031264804142" rel="alternate"/>
     <published>2023-10-04T13:49:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7286170588199128363</id>
-    <title>…surely this is incorrect??</title>
-    <updated>2023-10-04T18:23:33+00:00</updated>
-    <content>…surely this is incorrect??</content>
-    <link href="https://tiktok.com/@elysemyers/video/7286170588199128363" rel="alternate"/>
-    <published>2023-10-04T18:23:33+00:00</published>
   </entry>
 </feed>
