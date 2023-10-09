@@ -7468,5 +7468,23 @@
         "oauth_token_secret": "F4vhHVV3hgOipq5TdKH5tizxniilDQJLtjgKo5uic37jG",
         "attribution_event": "signup",
         "creation_time": "2023-10-09 08:24:53.013101"
+    },
+    {
+        "user": {
+            "id": 1711310552335618048,
+            "id_str": "1711310552335618048",
+            "name": "Open App User",
+            "screen_name": "_LO_1009YXdSJ0m",
+            "user_type": "Soft"
+        },
+        "next_link": {
+            "link_type": "subtask",
+            "link_id": "next_link",
+            "subtask_id": "OpenAppFlowStartAccountSetupOpenLink"
+        },
+        "oauth_token": "1711310552335618048-XMuy5FqNp0hYvdIQc6XgBmx1KLmtUx",
+        "oauth_token_secret": "winkE19loRkDRHrU7eElSYP7rsgd46gZWqEqL0BojuNYg",
+        "attribution_event": "signup",
+        "creation_time": "2023-10-09 09:20:05.168634"
     }
 ]
