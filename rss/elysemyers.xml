@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-10-08T21:23:06+00:00</updated>
+  <updated>2023-10-09T19:14:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7286100031264804142</id>
-    <title>apparently it’s not house party rules around here 🍾 #coffeetalk #shotluge #onthisday </title>
-    <updated>2023-10-04T13:49:57+00:00</updated>
-    <content>apparently it’s not house party rules around here 🍾 #coffeetalk #shotluge #onthisday </content>
-    <link href="https://tiktok.com/@elysemyers/video/7286100031264804142" rel="alternate"/>
-    <published>2023-10-04T13:49:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7286613795013659947</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>☕️</content>
     <link href="https://tiktok.com/@elysemyers/video/7287701266468293931" rel="alternate"/>
     <published>2023-10-08T21:23:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7288039250631675179</id>
+    <title>#duet with @Will Smith3857 sir I think we’re related</title>
+    <updated>2023-10-09T19:14:45+00:00</updated>
+    <content>#duet with @Will Smith3857 sir I think we’re related</content>
+    <link href="https://tiktok.com/@elysemyers/video/7288039250631675179" rel="alternate"/>
+    <published>2023-10-09T19:14:45+00:00</published>
   </entry>
 </feed>
