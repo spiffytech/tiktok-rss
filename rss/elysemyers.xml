@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-10-09T19:14:45+00:00</updated>
+  <updated>2023-10-11T01:15:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7286613795013659947</id>
-    <title>No Title</title>
-    <updated>2023-10-05T23:03:09+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@elysemyers/video/7286613795013659947" rel="alternate"/>
-    <published>2023-10-05T23:03:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7286841899393092910</id>
     <title>happy taco friday 🌮 </title>
@@ -51,5 +43,13 @@
     <content>#duet with @Will Smith3857 sir I think we’re related</content>
     <link href="https://tiktok.com/@elysemyers/video/7288039250631675179" rel="alternate"/>
     <published>2023-10-09T19:14:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7288503318995832106</id>
+    <title>incredibly honored and deeply confused</title>
+    <updated>2023-10-11T01:15:33+00:00</updated>
+    <content>incredibly honored and deeply confused</content>
+    <link href="https://tiktok.com/@elysemyers/video/7288503318995832106" rel="alternate"/>
+    <published>2023-10-11T01:15:33+00:00</published>
   </entry>
 </feed>
