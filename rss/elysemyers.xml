@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-10-11T01:15:33+00:00</updated>
+  <updated>2023-10-12T01:26:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7286841899393092910</id>
-    <title>happy taco friday 🌮 </title>
-    <updated>2023-10-06T13:48:36+00:00</updated>
-    <content>happy taco friday 🌮 </content>
-    <link href="https://tiktok.com/@elysemyers/video/7286841899393092910" rel="alternate"/>
-    <published>2023-10-06T13:48:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7287240425138572587</id>
     <title>i’m out here accidentally becoming my grandma on fb #cutoff </title>
@@ -51,5 +43,13 @@
     <content>incredibly honored and deeply confused</content>
     <link href="https://tiktok.com/@elysemyers/video/7288503318995832106" rel="alternate"/>
     <published>2023-10-11T01:15:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7288877159492504874</id>
+    <title>I don’t know what my brain was going for but it wasnt that</title>
+    <updated>2023-10-12T01:26:15+00:00</updated>
+    <content>I don’t know what my brain was going for but it wasnt that</content>
+    <link href="https://tiktok.com/@elysemyers/video/7288877159492504874" rel="alternate"/>
+    <published>2023-10-12T01:26:15+00:00</published>
   </entry>
 </feed>
