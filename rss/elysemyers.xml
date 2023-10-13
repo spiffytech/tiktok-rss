@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-10-12T21:20:36+00:00</updated>
+  <updated>2023-10-13T14:42:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7287701266468293931</id>
-    <title>☕️</title>
-    <updated>2023-10-08T21:23:06+00:00</updated>
-    <content>☕️</content>
-    <link href="https://tiktok.com/@elysemyers/video/7287701266468293931" rel="alternate"/>
-    <published>2023-10-08T21:23:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7288039250631675179</id>
     <title>#duet with @Will Smith3857 sir I think we’re related</title>
@@ -51,5 +43,13 @@
     <content>(2012) The Morgan &amp; Elyse Show: Hardcore Parkour </content>
     <link href="https://tiktok.com/@elysemyers/video/7289184915017649454" rel="alternate"/>
     <published>2023-10-12T21:20:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7289453510196809002</id>
+    <title>please just let me watch love is blind in peace without being greeted by a bloody chainsaw??</title>
+    <updated>2023-10-13T14:42:43+00:00</updated>
+    <content>please just let me watch love is blind in peace without being greeted by a bloody chainsaw??</content>
+    <link href="https://tiktok.com/@elysemyers/video/7289453510196809002" rel="alternate"/>
+    <published>2023-10-13T14:42:43+00:00</published>
   </entry>
 </feed>
