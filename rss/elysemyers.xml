@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-10-26T00:41:58+00:00</updated>
+  <updated>2023-10-26T16:44:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7289945177685314859</id>
-    <title>it’s rude how similar the symptoms of heart attack and panic attack are 😅</title>
-    <updated>2023-10-14T22:30:39+00:00</updated>
-    <content>it’s rude how similar the symptoms of heart attack and panic attack are 😅</content>
-    <link href="https://tiktok.com/@elysemyers/video/7289945177685314859" rel="alternate"/>
-    <published>2023-10-14T22:30:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7290276990077193514</id>
     <title>very natural and cool</title>
@@ -51,5 +43,13 @@
     <content>I am on another planet with this postpartum brain fog. </content>
     <link href="https://tiktok.com/@elysemyers/video/7294060947587468587" rel="alternate"/>
     <published>2023-10-26T00:41:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7294308940391648554</id>
+    <title>No Title</title>
+    <updated>2023-10-26T16:44:14+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@elysemyers/video/7294308940391648554" rel="alternate"/>
+    <published>2023-10-26T16:44:14+00:00</published>
   </entry>
 </feed>
