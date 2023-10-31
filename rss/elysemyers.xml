@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-10-30T22:26:17+00:00</updated>
+  <updated>2023-10-31T18:32:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7291302767027850542</id>
-    <title>the unexpected texture is something I have nightmares about #onthisday #coffeetalk #theadhdway </title>
-    <updated>2023-10-18T14:18:48+00:00</updated>
-    <content>the unexpected texture is something I have nightmares about #onthisday #coffeetalk #theadhdway </content>
-    <link href="https://tiktok.com/@elysemyers/video/7291302767027850542" rel="alternate"/>
-    <published>2023-10-18T14:18:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7291719979349708078</id>
     <title>not so sweet 16 🪪 #coffeetalk #theadhdway #dmv </title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@elysemyers/video/7295881405408578858" rel="alternate"/>
     <published>2023-10-30T22:26:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7296192261480533291</id>
+    <title>until today, I was blissfully unaware of how expressive I am when listening to new music. #1989tv </title>
+    <updated>2023-10-31T18:32:35+00:00</updated>
+    <content>until today, I was blissfully unaware of how expressive I am when listening to new music. #1989tv </content>
+    <link href="https://tiktok.com/@elysemyers/video/7296192261480533291" rel="alternate"/>
+    <published>2023-10-31T18:32:35+00:00</published>
   </entry>
 </feed>
