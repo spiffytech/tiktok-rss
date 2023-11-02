@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-10-31T18:32:35+00:00</updated>
+  <updated>2023-11-02T16:44:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7291719979349708078</id>
-    <title>not so sweet 16 🪪 #coffeetalk #theadhdway #dmv </title>
-    <updated>2023-10-19T17:18:00+00:00</updated>
-    <content>not so sweet 16 🪪 #coffeetalk #theadhdway #dmv </content>
-    <link href="https://tiktok.com/@elysemyers/video/7291719979349708078" rel="alternate"/>
-    <published>2023-10-19T17:18:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7294060947587468587</id>
     <title>I am on another planet with this postpartum brain fog. </title>
@@ -51,5 +43,13 @@
     <content>until today, I was blissfully unaware of how expressive I am when listening to new music. #1989tv </content>
     <link href="https://tiktok.com/@elysemyers/video/7296192261480533291" rel="alternate"/>
     <published>2023-10-31T18:32:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7296906524406877482</id>
+    <title>I told myself I was going to be chill about this</title>
+    <updated>2023-11-02T16:44:23+00:00</updated>
+    <content>I told myself I was going to be chill about this</content>
+    <link href="https://tiktok.com/@elysemyers/video/7296906524406877482" rel="alternate"/>
+    <published>2023-11-02T16:44:23+00:00</published>
   </entry>
 </feed>
