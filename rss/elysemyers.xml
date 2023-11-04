@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-11-02T16:44:23+00:00</updated>
+  <updated>2023-11-03T23:49:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7294060947587468587</id>
-    <title>I am on another planet with this postpartum brain fog. </title>
-    <updated>2023-10-26T00:41:58+00:00</updated>
-    <content>I am on another planet with this postpartum brain fog. </content>
-    <link href="https://tiktok.com/@elysemyers/video/7294060947587468587" rel="alternate"/>
-    <published>2023-10-26T00:41:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7294308940391648554</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>I told myself I was going to be chill about this</content>
     <link href="https://tiktok.com/@elysemyers/video/7296906524406877482" rel="alternate"/>
     <published>2023-11-02T16:44:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7297387097382456619</id>
+    <title>a win is a win</title>
+    <updated>2023-11-03T23:49:08+00:00</updated>
+    <content>a win is a win</content>
+    <link href="https://tiktok.com/@elysemyers/video/7297387097382456619" rel="alternate"/>
+    <published>2023-11-03T23:49:08+00:00</published>
   </entry>
 </feed>
