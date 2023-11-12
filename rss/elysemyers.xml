@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-11-10T21:54:08+00:00</updated>
+  <updated>2023-11-12T01:16:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7297586412658986283</id>
-    <title>I woke up telling my husband I couldn’t believe I got to go home with him 💀🦷</title>
-    <updated>2023-11-04T12:43:00+00:00</updated>
-    <content>I woke up telling my husband I couldn’t believe I got to go home with him 💀🦷</content>
-    <link href="https://tiktok.com/@elysemyers/video/7297586412658986283" rel="alternate"/>
-    <published>2023-11-04T12:43:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7298409489407954218</id>
     <title>same thing happened when I would look at those “cross your eyes to see the picture” books 🤷🏻‍♀️</title>
@@ -51,5 +43,13 @@
     <content>starting him young 🧶</content>
     <link href="https://tiktok.com/@elysemyers/video/7299955062686731562" rel="alternate"/>
     <published>2023-11-10T21:54:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7300378377133903146</id>
+    <title>@Chris Olsen we need a FULL RECAP of your experience in the tent tomorrow </title>
+    <updated>2023-11-12T01:16:52+00:00</updated>
+    <content>@Chris Olsen we need a FULL RECAP of your experience in the tent tomorrow </content>
+    <link href="https://tiktok.com/@elysemyers/video/7300378377133903146" rel="alternate"/>
+    <published>2023-11-12T01:16:52+00:00</published>
   </entry>
 </feed>
