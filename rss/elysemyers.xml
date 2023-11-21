@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-11-19T16:07:17+00:00</updated>
+  <updated>2023-11-18T17:47:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7300635120816475435</id>
+    <title>ope 😅</title>
+    <updated>2023-11-12T17:53:12+00:00</updated>
+    <content>ope 😅</content>
+    <link href="https://tiktok.com/@elysemyers/video/7300635120816475435" rel="alternate"/>
+    <published>2023-11-12T17:53:12+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7301112598408203562</id>
     <title>putting it into the menty-b savings account</title>
@@ -43,13 +51,5 @@
     <content>I would appologize for the mess but that would be pointless - it looks like this 90% of the time. </content>
     <link href="https://tiktok.com/@elysemyers/video/7302860173977144618" rel="alternate"/>
     <published>2023-11-18T17:47:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7303205407407852843</id>
-    <title>No Title</title>
-    <updated>2023-11-19T16:07:17+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@elysemyers/video/7303205407407852843" rel="alternate"/>
-    <published>2023-11-19T16:07:17+00:00</published>
   </entry>
 </feed>
