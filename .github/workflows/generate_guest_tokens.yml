@@ -5,7 +5,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '7,37 * * * *'
+    - cron: "7,37 * * * *"
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -27,5 +27,5 @@ jobs:
           git config --global user.email "no-reply@github.com"
           git config --global user.name "GitHub Actions"
           git add guest_accounts.json
-          git commit -m "Updated guest accounts"
+          git commit -m "Updated guest accounts" || true
           git push
