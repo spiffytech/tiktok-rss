@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-11-30T02:13:39+00:00</updated>
+  <updated>2023-12-02T20:49:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7305957510769429803</id>
-    <title>I blame it on being 5 months pregnant 😂 #workingitout </title>
-    <updated>2023-11-27T02:06:51+00:00</updated>
-    <content>I blame it on being 5 months pregnant 😂 #workingitout </content>
-    <link href="https://tiktok.com/@elysemyers/video/7305957510769429803" rel="alternate"/>
-    <published>2023-11-27T02:06:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7306631044831153451</id>
     <title>Having fun? Absolutely not. #hyperfixation </title>
@@ -51,5 +43,13 @@
     <content>no okay got it thank you sir antonoff that’s perfect 🫡</content>
     <link href="https://tiktok.com/@elysemyers/video/7307072551774129454" rel="alternate"/>
     <published>2023-11-30T02:13:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7308102321077062954</id>
+    <title>I still think about how badly I feel for that receptionist #coffeetalk #theadhdway </title>
+    <updated>2023-12-02T20:49:41+00:00</updated>
+    <content>I still think about how badly I feel for that receptionist #coffeetalk #theadhdway </content>
+    <link href="https://tiktok.com/@elysemyers/video/7308102321077062954" rel="alternate"/>
+    <published>2023-12-02T20:49:41+00:00</published>
   </entry>
 </feed>
