@@ -1,12 +1,3 @@
-2023-12-05 18:46:27,923 Using selector: EpollSelector
-2023-12-05 18:46:27,923 Running for user '{csvuser}'
-2023-12-05 18:47:20,314 URL = https://tiktok.com/@elysemyers/video/7308102321077062954
-2023-12-05 18:47:20,314 2023-12-02 20:49:41+00:00
-2023-12-05 18:47:20,314 URL = https://tiktok.com/@elysemyers/video/7307072551774129454
-2023-12-05 18:47:20,314 2023-11-30 02:13:39+00:00
-2023-12-05 18:47:20,314 URL = https://tiktok.com/@elysemyers/video/7306920085854113066
-2023-12-05 18:47:20,315 2023-11-29 16:22:06+00:00
-2023-12-05 18:47:20,315 URL = https://tiktok.com/@elysemyers/video/7306901597722807598
-2023-12-05 18:47:20,315 2023-11-29 15:10:30+00:00
-2023-12-05 18:47:20,315 URL = https://tiktok.com/@elysemyers/video/7306631044831153451
-2023-12-05 18:47:20,315 2023-11-28 21:40:27+00:00
+2023-12-05 19:46:15,059 Using selector: EpollSelector
+2023-12-05 19:46:15,060 Running for user '{csvuser}'
+2023-12-05 19:48:17,745 Some error: Data scraping unable to complete in 60.0s (retries: 3)
