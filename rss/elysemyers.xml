@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@elysemyers</id>
   <title>elysemyers TikTok</title>
-  <updated>2023-12-02T20:49:41+00:00</updated>
+  <updated>2023-12-06T19:34:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://spiffytech.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from elysemyers</subtitle>
-  <entry>
-    <id>https://tiktok.com/@elysemyers/video/7306631044831153451</id>
-    <title>Having fun? Absolutely not. #hyperfixation </title>
-    <updated>2023-11-28T21:40:27+00:00</updated>
-    <content>Having fun? Absolutely not. #hyperfixation </content>
-    <link href="https://tiktok.com/@elysemyers/video/7306631044831153451" rel="alternate"/>
-    <published>2023-11-28T21:40:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@elysemyers/video/7306901597722807598</id>
     <title>It’s my duty to keep them updated</title>
@@ -51,5 +43,13 @@
     <content>I still think about how badly I feel for that receptionist #coffeetalk #theadhdway </content>
     <link href="https://tiktok.com/@elysemyers/video/7308102321077062954" rel="alternate"/>
     <published>2023-12-02T20:49:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@elysemyers/video/7309567345368894763</id>
+    <title>based on a true story</title>
+    <updated>2023-12-06T19:34:39+00:00</updated>
+    <content>based on a true story</content>
+    <link href="https://tiktok.com/@elysemyers/video/7309567345368894763" rel="alternate"/>
+    <published>2023-12-06T19:34:39+00:00</published>
   </entry>
 </feed>
