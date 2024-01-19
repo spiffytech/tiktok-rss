@@ -1,24 +1,6 @@
 [
     {
         "user": {
-            "id": 1737393286355075072,
-            "id_str": "1737393286355075072",
-            "name": "Open App User",
-            "screen_name": "_LO_12207iG0onU",
-            "user_type": "Soft"
-        },
-        "next_link": {
-            "link_type": "subtask",
-            "link_id": "next_link",
-            "subtask_id": "OpenAppFlowStartAccountSetupOpenLink"
-        },
-        "oauth_token": "1737393286355075072-vBT1JEFatvD7vOUsPtdsgdZZjBtV2s",
-        "oauth_token_secret": "ijRu9Q0QbnAVv3CYltLKXLTBbYR4a3vgxcPkSkVc1EHR8",
-        "attribution_event": "signup",
-        "creation_time": "2023-12-20 08:43:33.545459"
-    },
-    {
-        "user": {
             "id": 1737401656072101888,
             "id_str": "1737401656072101888",
             "name": "Open App User",
@@ -21184,5 +21166,23 @@
         "oauth_token_secret": "zclouLo7DTjFPuIJFodlibFuVxdGF6KRbZbSO0UNloWjT",
         "attribution_event": "signup",
         "creation_time": "2024-01-19 08:25:58.981749"
+    },
+    {
+        "user": {
+            "id": 1748264953469911040,
+            "id_str": "1748264953469911040",
+            "name": "Open App User",
+            "screen_name": "_LO_0119EvvIkFZ",
+            "user_type": "Soft"
+        },
+        "next_link": {
+            "link_type": "subtask",
+            "link_id": "next_link",
+            "subtask_id": "OpenAppFlowStartAccountSetupOpenLink"
+        },
+        "oauth_token": "1748264953469911040-8VWlb8HTZ4amfXnpDHDX1ZNR0ieSwq",
+        "oauth_token_secret": "xqXgZMg4lmR2YfH59ZcDw16PaADOLkodVB6u2Ktz08rrF",
+        "attribution_event": "signup",
+        "creation_time": "2024-01-19 08:43:40.965511"
     }
 ]
