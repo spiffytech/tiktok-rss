@@ -1,3 +1,3 @@
-2024-01-30 19:46:04,997 Using selector: EpollSelector
-2024-01-30 19:46:04,997 Running for user '{csvuser}'
-2024-01-30 19:48:07,179 Some error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-01-30 20:46:05,704 Using selector: EpollSelector
+2024-01-30 20:46:05,705 Running for user '{csvuser}'
+2024-01-30 20:48:08,383 Some error: Data scraping unable to complete in 60.0s (retries: 3)
