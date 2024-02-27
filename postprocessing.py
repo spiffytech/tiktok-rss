@@ -1,15 +1,13 @@
-import asyncio
 import csv
 from datetime import datetime, timezone
 from feedgen.feed import FeedGenerator
-from tiktokapipy.async_api import AsyncTikTokAPI
-#importing the module
+from tiktokapipy.api import TikTokAPI
 import logging
 
 #now we will Create and configure logger
 logging.basicConfig(filename="std.log",
 					format='%(asctime)s %(message)s',
-					filemode='w')
+					filemode='w', encoding='utf-8')
 
 #Let us Create an object
 logger=logging.getLogger()
@@ -28,17 +26,8 @@ ghPagesURL = "https://spiffytech.github.io/tiktok-rss/"
 maxItems = 5
 
 
-async def runAll():
-    with open('subscriptions.csv') as f:
-        # TODO: Switch to 3.11 TaskGroup or trio nursery
-        await asyncio.gather(*[
-            run(row['username']) for row in csv.DictReader(f, fieldnames=['username'])])
-
-
-async def run(csvuser):
+def run(csvuser):
     try:
-        logger.debug('Running for user \'{csvuser}\'')
-
         fg = FeedGenerator()
         fg.id('https://tiktok.com/@' + csvuser)
         fg.title(csvuser + ' TikTok')
@@ -52,11 +41,22 @@ async def run(csvuser):
         # Set the last modification time for the feed to be the most recent post, else now.
         updated=None
 
-        async with AsyncTikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
-            tiktokuser = await api.user(csvuser, video_limit=maxItems)
-            async for video in tiktokuser.videos:
-                logger.debug(video.create_time, video.desc) 
-                logger.debug("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id)) 
+        print("Step 5", flush=True)
+
+        with TikTokAPI(navigation_retries=3, navigation_timeout=60, args=["--disable-gpu", "--single-process"]) as api:
+
+            print("Step 6", flush=True)
+
+            tiktokuser = api.user(csvuser, video_limit=maxItems)
+            print(tiktokuser, flush=True)
+
+            for video in tiktokuser.videos:
+                print("Step 7", flush=True)
+
+                logger.debug(video.create_time.strftime("%m/%d/%Y, %H:%M:%S") + ": " + video.desc)
+                logger.debug("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id))
+                print(video.create_time.strftime("%m/%d/%Y, %H:%M:%S") + ": " + video.desc)
+                print("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id))
                 fe = fg.add_entry()
                 link = "https://tiktok.com/@" + csvuser + "/video/" + str(video.id)
                 fe.id(link)
@@ -80,9 +80,12 @@ async def run(csvuser):
         fg.updated(updated)
         fg.atom_file('rss/' + csvuser + '.xml', pretty=True) # Write the RSS feed to a file
     except Exception as e:
-        logger.error(f"Some error: {e}")
+        logger.error(f"Error: {e}")
         pass
 
+with open('subscriptions.csv') as f:
 
+    for row in csv.DictReader(f, fieldnames=['username']):
+        print(row['username'])
+        run(row['username'])
 
-asyncio.run(runAll())
