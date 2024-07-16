@@ -8,6 +8,7 @@ on:
     - cron: '40 * * * *'
 jobs:
   scheduled:
+    if: false
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
